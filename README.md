@@ -6,4 +6,4 @@ Quantifying beach volume and shoreline position is challenging due to their comp
 [CDIP](https://cdip.ucsd.edu/mops/)
 
 ### Images Provided By
-[Usgs](https://www.usgs.gov/centers/pcmsc)
+[USGS](https://www.usgs.gov/centers/pcmsc)
