@@ -3,7 +3,7 @@ Quantifying beach volume and shoreline position is challenging due to their comp
 
 
 ### Modeled Wave data
-[Data Source](https://cdip.ucsd.edu/mops/)
+[CDIP](https://cdip.ucsd.edu/mops/)
 
 ### Images Provided By:
-[Data Source](https://www.usgs.gov/centers/pcmsc)
+[Usgs](https://www.usgs.gov/centers/pcmsc)
