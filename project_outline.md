@@ -4,7 +4,7 @@
   -	Research Questions:
     -	How do wave conditions change throughout the year during an ENSO event compared to a normal year?
     -	How do changes in wave conditions contribute to beach accretion and shoreline change over the course of a year on the       West Coast?
-    -	Can the laser altimeter measure fine-scale profiles, such as those in the swash zone?
+    -	How do winds contribute to sea surface height near the West Coast?
 ## Proposed Research
   -	Compare seasonal sea surface height (SSH) and sea level rise (SLR) during an ENSO year and a normal year using a time       series derived from the altimeter data.
   -	Analyze data from the laser altimeter to assess its contribution to changes in beach accretion and shoreline changes         at Main Beach and Cowell's Beach, utilizing USGS shoreline data.
